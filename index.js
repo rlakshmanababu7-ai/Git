@@ -1,2 +1,5 @@
 console.log('Hello, World!');
-console.log('This is a simple Node.js application.');
+console.log("welcome to babu");
+for (let i = 0; i < 5; i++) {
+    console.log("code io");
+}
